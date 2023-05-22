@@ -1,0 +1,103 @@
+
+
+.h_d{
+    margin-top: 12px;
+}
+.for_mtone{
+    margin-top: 12px;
+}
+
+/* .man_wi{
+    width: 25%;
+} */
+.adm{
+    margin-top: 12px;
+}
+
+/* .dollar_wi{
+    width: 25%;
+} */
+.h_dollar{
+    margin-top: 12px;
+}
+.vp_spn{
+    width: 42px !important;
+    margin: auto !important;
+}
+
+.upper_icon{
+    background-color: #02A3C1;
+ 
+}
+.fontly-text{
+    font-size: 15px !important;
+}
+.all-things-hotel{
+    display: flex;
+    justify-content: center !important;
+}
+
+
+.clr_hdr{
+    background-color: #02A3C1;
+}
+
+.vhotel_spn{
+    background-color: #05839A;
+}
+
+.lug{
+    width: 7%;
+    height: 25px;
+}
+
+.smor{
+    background-color: #02A3C1 !important;
+    width: 35%;
+}
+
+
+@media screen and (max-width:500px) {
+    .upper_icon{
+        background-color: #02A3C1;
+       display: flex;
+       flex-direction: column;
+       justify-content: center !important;
+
+    }
+    .all-things-hotel{
+        display: flex;
+        justify-content: center !important;
+        flex-direction: column !important;
+    }
+
+    .vf_uppercrl{
+        display: none;
+    }
+    .full_dot{
+        display: none;
+    }
+
+    .mda{
+        display: none;
+    }
+    .first_dotset{
+        display: none !important;
+    }
+
+    .vfpln{
+        width: 7%;
+    }
+
+    .smor{
+        background-color: #02A3C1 !important;
+        width: 55%;
+    }
+
+}
+
+@media screen and (max-width:800px) {
+    .lug{
+        text-align: center !important;
+    }
+}

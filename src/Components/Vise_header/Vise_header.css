@@ -1,0 +1,22 @@
+.vise_bg{
+ 
+}
+
+.vise_header{
+    padding: 20px 0px;
+    background-color: #02A3C1 !important;
+}
+
+
+.vise_btn{
+    outline: none;
+    border: none;
+    background-color:transparent !important;
+    font-weight: 500;
+    color:#757575;
+}
+
+.vise_info_main{
+    border: 1px solid grey;
+    padding: 15px 10px;
+}

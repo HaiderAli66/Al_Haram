@@ -1,0 +1,77 @@
+.date-lan{
+    font-size: 15px;
+    color: 
+    #076273;
+}
+.C-2lan {
+    font-weight: 500;
+    color: 
+    #666666;
+    font-size: 12px;
+}
+.C-3lan{
+    color: 
+    #666666;
+    font-size: 15px;  
+}
+
+.has-search .form-control {
+    padding: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 4.800rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+        left: 17px;
+}
+.hotel-land{
+    font-size: 18px;
+    color:#666666; ;
+}
+.land-cata{
+    color:#666666; 
+}
+.date-lans{
+    font-size: 8px;
+    color: 
+    #076273;
+}
+.C-2lans {
+    font-weight: 500;
+    color: 
+    #666666;
+    font-size: 9px;
+}
+.C-3lans{
+    color: 
+    #666666;
+    font-size: 6px;  
+}
+.ucards{
+    background-color: 
+    #02A3C1;
+    width: 22%;
+    color: white;
+}
+.mcards{
+    background-color: 
+    #02A3C1;
+   
+}
+.btond:hover{
+    background-color: #02A3C1;
+    text-align: center;
+    color: white;
+}
+
+
+
+
+

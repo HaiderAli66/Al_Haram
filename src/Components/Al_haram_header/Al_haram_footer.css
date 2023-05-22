@@ -1,0 +1,26 @@
+.al_haam_footer{
+        background-color: #02A3C1 ;
+        padding: 15px 10px ;
+        padding-bottom: 20px !important;
+        color:white ;
+        font-weight: 700;
+        font-size:18px;
+        text-transform: uppercase;
+}
+
+.footer_icons_para{
+        font-size: 16px !important;
+}
+
+
+.width_img_home{
+        width: 80% !important;
+}
+
+
+
+@media only screen and (max-width:600px){
+       .resssssspon{
+        margin-left: 36px!important;
+       }
+}

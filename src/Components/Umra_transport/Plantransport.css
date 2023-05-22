@@ -1,0 +1,9 @@
+.plan_shw_more_button{
+    background-color: #02A3C1 !important;
+    font-weight: bold; 
+    text-transform: uppercase; 
+    padding: 10px 25px  !important;
+    outline: none;
+    border: none ; 
+    color: white;
+}

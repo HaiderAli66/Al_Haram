@@ -1,0 +1,116 @@
+.al{
+    background-color: white;
+    border-radius: 50%;
+    font-size: 23px;
+    padding: 12px;
+    color: #02A3C1;
+    font-weight: 700;
+    width: max-content;
+}
+.heading{
+    background-color:  #02A3C1;
+    padding: 10px;
+    margin-bottom: 10px !important;
+   
+}
+.harmiry{
+    color: white;
+    font-size: 23px;
+    font-weight: 700;
+    width: max-content;
+}
+.sign_baba{
+    width: 70% !important;
+    padding: 10px 25px !important;
+}
+
+
+.sign_box_size{
+    width: 110px !important;
+    height: 110px !important;
+    margin-bottom: 10px !important;
+}
+
+
+.sign_box_size img{
+    width: 80% !important   ;
+}
+
+.b_agent{
+    background-image: url(../Assets/b_agent.png) !important;
+    background-size: contain;
+    background-repeat: no-repeat !important;
+    /* background-position: center center !important; */
+    /* min-height: 100vh !important; */
+}
+.icoland{
+    font-size: 62px;
+    width: 100%;
+    background-color:  #02A3C1;
+    color: white;
+    height: 6pc;
+}
+.icotext{
+    text-align: center;
+    /* color: rgb(86, 86, 86); */
+    font-size: 18px;
+    color: #757575 !important;
+  
+    font-weight: 600;
+  
+}
+.ucode{
+    background-color:  #02A3C1;
+    
+}
+
+
+.sing_up_box_bg{
+    background-color: #0E93AC !important;
+
+}
+
+.btooo{
+
+    width: 66% !important;
+    background-color: white;
+    font-weight: 700;
+    /* margin: auto; */
+    /* margin-left: 19rem; */
+}
+.alhaa{
+    font-size: 14px;
+}
+.icoblod{
+    position: relative;
+    top: -16%;
+}
+.whattw{
+    color: rgb(54, 208, 54);
+    font-size: 28px;
+}
+.text-bolda{
+    font-weight: 600;
+}
+@media only screen and (max-width:400px) {
+   
+      .icoland{
+        
+        width: 100%;
+        
+    }
+}
+@media only screen and (min-width:400px)  and  (max-width:700px) {
+   
+      .icoland{
+        
+        width: 100%;
+        
+    }
+}
+@media only screen and (max-width:600px) {
+   
+    .sign_baba{
+        width: 100% !important;
+    }
+}

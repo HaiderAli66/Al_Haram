@@ -1,0 +1,13 @@
+.gr{
+    background-color: #02A3C1;
+}
+
+.tick_ok{
+    width: 20% !important;
+}
+
+@media screen and (max-width:500px) {
+    .tick_ok{
+        width: 50% !important;
+    }
+}

@@ -1,0 +1,61 @@
+.explore_main_ksg{
+    /* padding: 30px 0px; */
+    padding: 30px 20px !important;
+    background-color: 
+    rgba(2, 163, 193, 0.13);
+}
+
+.explore_card_heading{
+    text-transform: uppercase;
+    color: #454545;
+    font-size: 16px;
+}
+.Travel_main_heading{
+    color: #2d2d2d;
+    text-transform:uppercase;
+    font-weight: 600;
+}
+
+.Travel_sub_heading{
+    color: #777777;
+    font-weight: 400;
+    font-size: 18px;
+    text-transform:capitalize;
+    padding-bottom: 20px;
+}
+
+.explore_para{
+    color: #757575;
+    font-size:18px;
+}
+
+
+.expo_mai_pad{
+    padding-bottom: 10rem !important;
+}
+
+
+.hotel_main_mar_Ex{
+    margin-top: 45px !important;
+}
+
+
+.expo_res_Card_sub{
+    color: #828282 !important;
+    margin-left: 40px;
+   
+}
+
+@media only screen and (max-width:600px){
+    .res_dir{
+        flex-direction: column !important;
+    }
+
+    .expo_mai_pad{
+        padding-bottom: 2rem !important;
+    }
+
+    .hotel_main_mar_Ex{
+        margin-top: 15px !important;
+    }
+}

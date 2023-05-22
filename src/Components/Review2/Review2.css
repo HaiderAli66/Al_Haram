@@ -1,0 +1,25 @@
+.styles{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    margin-bottom: 12px;
+   
+}
+.submitly-park{
+    background-color: #02a3c0;
+}
+@media only screen and (max-width: 468px) {
+    .styles{
+        display: grid;
+        grid-template-columns: 1fr 1fr ;
+        
+       
+    }
+}
+@media only screen and (min-width: 468px) and (max-width: 679px){
+    .styles{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr ;
+        
+       
+    }
+}

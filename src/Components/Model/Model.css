@@ -1,0 +1,27 @@
+
+.colorofmodel{
+    background-color: #02a3c1;
+}
+.modal-header .btn-close {
+    color: white !important;
+}
+
+
+
+.colorofmodel .btn-close{
+    color: white !important;
+}
+
+.colorofmodels{
+    background-color: #02a3c1;
+    border: none;
+    outline: #02a3c1;
+}
+
+.colorofmodels:hover{
+    background-color: #02a3c1;
+}
+.colorofmodels:visited{
+    background-color: #02a3c1;
+    color: black;
+}

@@ -1,0 +1,77 @@
+.offers_main{
+    padding:110px 0px 40px 0px;
+}
+
+.offers_heading_main{
+    color: #2D2D2D;
+    text-align: center;
+    line-height: 45px;
+    font-size: 36px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-weight: 600;
+
+}
+
+.offers_para{
+    color: #777777;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+
+
+.img_hh{
+    background-image:url(../Assets/Alharam.png) ;
+    padding: 25px 15px;
+    min-height: 467px !important;
+    background-position: center;
+    background-size: cover;
+    position: relative !important;
+    
+}
+
+.img_hh2{
+    background-image: url(../Assets/plane.png);
+    padding: 25px 15px;
+    min-height: 467px !important;
+    background-position: center;
+    background-size: cover;
+    position:relative !important;
+    
+}
+.img_hh3{
+    background-image: url(../Assets/room.png);
+    padding: 25px 15px;
+    min-height: 467px !important; 
+    background-position: center;
+    background-size: cover;
+    position: relative !important;
+
+}
+
+.offers_heading{
+    color: white;
+    font-size: 30px !important;
+    text-transform:uppercase;
+}
+
+
+.offers_btn{
+    border: none;
+    outline: none;
+    padding: 10px 15px;
+    position:absolute !important;
+    bottom: 30px;
+    /* margin-top: 20px; */
+    font-size: 14px;
+    font-weight: lighter;
+    text-transform: uppercase !important;
+}
+
+@media only screen and (max-width:600px)
+{
+    .offers_para{
+        font-size: 20px !important;
+    }
+}

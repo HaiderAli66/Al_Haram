@@ -1,0 +1,66 @@
+.accordion-button {
+    background-color: #E9E9E9 !important;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.fstable {
+    font-size: '15px';
+    font-Weight: "300"
+}
+
+td,
+th {
+    /* border: 1px solid #dddddd; */
+    text-align: left;
+    padding: 8px;
+}
+
+/* tr:nth-child(even) {
+    background-color: #dddddd;
+} */
+
+
+.text_rotate {
+    /* transform-origin: 200 200; */
+    margin-left: -80% !important;
+    transform: rotate(270deg);
+    margin-top: 80px;
+}
+
+.text_rotated {
+    /* transform-origin: -50 -50; */
+    transform: rotate(270deg);
+}
+
+.text_size {
+    font-size: "32px";
+    font-weight: 400;
+
+}
+
+@media (min-width: 320px) and (max-width: 666px) {
+    .text_rotate {
+       
+        transform: rotate(0deg);
+    }
+    .text_rotate{
+        margin-left: 0px !important;
+    }
+
+    .fstable {
+        font-size: 10px !important;
+        font-Weight: 300
+    }
+
+    .text_rotated {
+        
+        transform: rotate(0deg);
+    }
+
+
+}

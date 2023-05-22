@@ -1,0 +1,13 @@
+
+.action:active {
+  background: #42C6DF !important;
+}
+.action:visited {
+  background: #42C6DF !important;
+}
+
+
+.expo_cad_headingg{
+  font-weight: 700;
+  letter-spacing: 1px;
+}

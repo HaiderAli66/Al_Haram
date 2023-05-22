@@ -1,0 +1,86 @@
+.date-lanss{
+    font-size:19px;
+    color: 
+    #076273;
+}
+.C-2lans {
+    font-weight: 500;
+    color: 
+    #666666;
+    font-size: 12px;
+    text-transform: capitalize !important;
+    margin-top: 2px !important;
+  
+}
+.share-icon{
+    border:1px solid #076273;
+    padding: 5px;
+    border-radius: 4px;
+}
+.shair{
+    color: #076273;
+}
+.jeddah{
+    font-size: 35px !important;
+    font-weight: 600;
+    color: #076273;
+
+}
+.jeddeh-text{
+    padding-left: 32px;
+    padding-right: 120px;
+    color: 
+    #666666;
+}
+@media only screen and (max-width:600px) {
+    .jeddeh-text{
+        padding-left: 2px;
+        padding-right: 0px;
+    }
+
+    .hara{
+        display: none !important;
+    }
+    .jeddah {
+     
+        font-weight: 600;
+        color: #02A3C1;
+        font-size: 20px !important;
+
+    }
+    .C-2lans {
+        font-weight: 500;
+        color: 
+        #666666;
+        font-size: 12px;
+        margin-top: 2px !important;
+    }
+    
+    .mortol{
+        
+        width: 100% !important;
+      
+    }
+}
+.mortol{
+    border-radius: 12px;
+    width: 17%;
+    float: left;
+}
+.mortal-2{
+    font-weight: 600;
+    color: 
+    #02A3C1;
+    font-size: 17px;
+}
+.mortal-3{
+    font-weight: 600;
+    color: #666666;
+}
+.mortal-4{
+  
+    color: #666666;
+}
+.hr-dv{
+    width: 86%;
+}

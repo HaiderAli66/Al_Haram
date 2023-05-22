@@ -1,0 +1,58 @@
+.bygt{
+    background-color: #02A3C1;
+}
+
+
+
+.rit{
+    margin-top: 5rem;
+}
+.hdig{
+    margin-bottom: 5rem;
+}
+
+.national{
+    background-color: #02A3C1;
+    margin-top: 7rem !important;
+}
+.pak_flag{
+    background-color: #05839A;
+}
+
+.mnat{
+    width: 45%;
+    margin-left: 3rem;
+}
+
+.conti{
+    width: 20%;
+}
+
+@media screen and (max-width:500px) {
+    .kind{
+        width: 100%;
+        margin-top: 0px;
+    }
+    .hdcr{
+        padding-top: 0rem !important;
+    }
+    .rit{
+        margin-top: 0rem;
+    }
+    .hdig{
+        margin-bottom: 0rem;
+    }
+    .flag_box{
+        display: flex;
+        flex-direction: column !important;
+    }
+
+    .mnat{
+        width: 45%;
+        margin-left: 4rem !important;
+    }
+
+    .conti{
+        width: 50%;
+    }
+}

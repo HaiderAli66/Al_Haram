@@ -1,0 +1,270 @@
+.umrah_deal_heading
+{
+    color: black;
+    text-align: center;
+    text-transform:uppercase ;
+    font-weight: 600;
+}
+
+.uramh_deal_para{
+    text-transform:capitalize;
+    font-size: 18px;
+    color: #777777  ;
+}
+
+.per_clr{
+    color: #575757;
+}
+
+.umrah_deal_btn{
+    font-weight: 800;
+    width: 170px;
+    font-size: 14px;
+    padding: 10px 15px;
+    color: #02A3C1;
+    background-color: #fff;
+    border:1px solid #02A3C1 ;
+    text-transform:capitalize;
+}
+
+.umrah_card{
+    color: #575757;
+    font-size: 24px;
+    line-height: 28px;
+    margin-top: 10px;
+    text-transform: capitalize;
+}
+
+.umrah_card_para{
+    text-transform: capitalize;
+    text-align: left !important  ;
+    font-weight: 550;
+}
+.person_w{
+    font-weight: 500  !important ;
+    text-transform: capitalize;
+}
+
+.icoon_card{
+    color:#02A3C1 ;
+    border: 1px solid #02A3C1;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.clr{
+    color: 
+    #0B7D93;
+    margin-left: 5px !important;
+}
+
+.card_footer_upper_para{
+    color: #02A3C1;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.card_footer_sub_para{
+    font-size: 12px !important;
+    color: #02A3C1;
+}
+
+.card_footer{
+    width: 100%;
+    color: #02A3C1;
+    border: 1px solid #02A3C1;
+    padding: 1px 5px;
+    text-transform: capitalize;
+}
+
+.main_chance_bg{
+    background-color:#02A3C1 ;
+    padding: 10px;
+    padding-bottom: 20px !important;
+}
+
+.choose_us_heading{
+    color: white;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+}
+
+.choose_sub_heading{
+    color: white;
+    text-align: left;
+}
+
+.clr_umrah_btn{
+    background-color: #02A3C1 !important;
+    color: White !important  ;
+}
+
+.choose_btn{
+    background-color: white;
+    color: #02A3C1;
+    padding: 8px 15px;
+    font-weight: 700;
+
+    border: none;
+    outline: none;
+}
+
+.choose_box{
+    color: #02A3C1;
+    background-color: white;
+    width: 180px;
+    height: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Choose_box_para{
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: 600;
+        
+}
+
+.small_font{
+    font-size: 10px;
+    font-weight: 600;
+    padding: 7px 0px;
+}
+
+.umrah_card{
+font-size: 20px;
+font-weight: bolder;
+}
+
+.Umrah_card_main_heading_heare{
+    color: #2D2D2D;
+    font-weight: 600;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 32px;
+}
+
+.umrah_card_main_para{
+    color: #777777;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-weight: 400;
+}
+.umrah_card1{
+    text-transform: capitalize;
+    font-size: 12px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.card_footer_para{
+    color: #02A3C1 !important;
+    font-size: 14px;
+}
+
+.abs{
+    position: relative;
+}
+.rel{
+ 
+    position: absolute;
+    margin-top:21px;
+    /* top: 0; */
+    /* right: 0; */
+
+}
+.c_marr{
+    margin-top: 13px;
+    margin-left: 14px;
+}
+.margggg{
+    margin-top: 23px !important;
+    margin-left: 10px !important;
+}
+.back_para_img{
+    text-transform: uppercase;
+    font-weight: 600;
+    text-align: left;
+    color:#fff
+}
+.mac_responsive{
+    margin-top: -46px !important;
+}
+
+.back_imgss{
+    background-image: url(../Assets/uc.png);
+    background-repeat: none;
+    background-size: cover;
+    background-position: center ;
+    padding: 30px 20px;
+    min-height: 320px !important;
+}
+
+.back_img_button{
+    outline: none;
+    border: none;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    color: #0B5A68;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.img_ssssaasa{
+    width:358px  !important;
+}
+
+@media only screen and (max-width:600px){
+    .umrah_deal_btn{
+        margin-top: 10px !important;
+        padding: 8px !important;
+        width: 100%;
+    }
+
+    .choose_box{
+        width: 100% !important;
+    }
+
+    .img_ssssaasa{
+        width:300px !important;
+    }
+}
+
+.umrah_deal_main{
+    padding-top: 80px;
+    padding-bottom: 40px;
+}
+
+.nawa{
+    width: 100% !important;
+    transition: 0.5s all ease-in-out;
+}
+
+.upf_try:hover .nawa {
+    transform: scale(1.2);
+    overflow: hidden;
+}
+
+/* animation style */
+
+.f_try{
+    width: 100% !important;
+    transition: 0.5s all ease-in-out;
+}
+
+.upf_try:hover .f_try {
+    transform: scale(1.2);
+    overflow: hidden;
+}
+.upf_try{
+    overflow: hidden;
+}
+.kol{
+    overflow: hidden !important;
+}

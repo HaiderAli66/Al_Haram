@@ -1,0 +1,10 @@
+.bolden-park{
+    font-weight: 600;
+}
+.bolden-parksss{
+    font-weight: 500; 
+    /* font-size: small !important; */
+}
+.bottom-border-shadow{
+    box-shadow:  0 6px 6px 0 rgba(0, 0, 0, 0.19);
+}

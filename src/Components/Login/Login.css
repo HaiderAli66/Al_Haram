@@ -1,0 +1,15 @@
+
+.welo {
+    margin-top: 35%;
+    font-weight: 700;
+    font-size: 211%;
+
+}
+
+
+
+@media only screen and (max-width:600px){
+    .icoland{
+        margin-top: 5px !important;
+    }
+}

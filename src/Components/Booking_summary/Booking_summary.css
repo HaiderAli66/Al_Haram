@@ -1,0 +1,374 @@
+.summary_nev{
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 47px;
+text-transform: capitalize;
+color: #FFFFFF;
+background: #02A3C1;
+text-align: center;
+padding: 10px 0 5px 0;
+margin-top: 50px;
+margin-bottom: 30px;
+}
+
+.sumary_indigo{
+    display: flex;
+}
+
+.sumary_indigo img{
+    width: 100px;
+}
+
+.summary_row{
+    padding-top: 10px;
+}
+
+.summary_text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.summary_main{
+    width: 97.5vw;
+    margin-left: 6px;
+    font-family: 'Roboto';
+}
+
+.summary_first_line{
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.traveler_box{
+    background: #FFFFFF;
+box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.15);
+padding: 16px 10px 10px 40px;
+}
+
+.traveler_box_text p{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 19px;
+color: #757575;
+}
+
+.travel_drop{
+    border: 1px solid #757575;
+    color: #757575 !important;
+    /* padding-left: -10px !important; */
+}
+
+.travel_enputs{
+    display: flex;
+    justify-content: space-between;
+}
+
+.traveller_enput{
+    padding: 7px 10px;
+    width: 24vw;
+}
+
+.fair_visa_header{
+    background-color: #02A3C1;
+    margin: 20px 0;
+    padding: 5px 28px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.fair_visa_summary{
+    width: 95vw;
+    background-color: #FFFFFF;
+    position: absolute;
+    flex-direction: column;
+    padding-bottom: 40px;
+}
+
+.fair_visa_item h5{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 38px;
+}
+
+.fair_visa_item p{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 23px;
+text-transform: uppercase;
+color: #757575;
+}
+
+.fair_visa_bttn{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 38px;
+color: #FFFFFF;
+}
+
+.fair_visa_bttn:focus{
+    color: white;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+
+  .fair_visa_tyh{
+    background: #02A3C1;
+}
+
+.fair_visa_tyh p{
+    color: white;
+    font-size: 12px;
+    font-variant: lowercase;
+}
+  
+  .thh {
+    font-size: 1.2em;
+    color: white;
+    letter-spacing: .1em;
+    background: #02A3C1;
+  }
+
+  .fs_6{
+    color: white;
+    font-size: 11px;
+    font-variant: lowercase;
+    font-weight: 300;
+}
+
+.fair_visa_text h5{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 23px;
+padding: 35px 0 20px 0;
+}
+
+.fair_visa_text p{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 23px;
+text-align: center;
+color: #757575;
+word-wrap: break-word;
+}
+
+.tital_detail{
+    word-break: break-word !important;
+    line-break: auto !important;
+}
+
+.add_travel{
+    background: #FFFFFF;
+box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.15);
+padding: 20px 20px;
+margin: 20px 0;
+
+}
+
+.hand{
+    padding: 0 19px;
+    width: 47%;
+}
+
+.ellipse{
+    width: 36%;
+    padding: 0 19px;
+}
+
+.add_travel_text h5{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 33px;
+color: #2D2D2D;
+}
+
+.add_travel_text p{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 28px;
+color: #2D2D2D;
+}
+
+.ellipse_2{
+    width: 80%;
+    padding: 0 19px;
+    margin-top: 7px;
+}
+
+.good_to_know{
+    background: #EBFCFF;
+    padding: 20px 40px;
+margin: 20px 0;
+}
+
+.good_to_know h5{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    color: #2D2D2D;
+}
+
+.good_to_know p{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 23px;
+color: #757575;
+}
+
+.imp_info{
+    background: #F5FFF3;
+    padding: 20px 40px;
+margin: 20px 0;
+}
+
+.imp_info h5{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    color: #2D2D2D;
+}
+
+.imp_info p{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 23px;
+color: #757575;
+}
+
+.price_tbl{
+    background: #FEFEFE;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 38px;
+color: #757575;
+padding-left: 20px;
+}
+
+.price{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 38px;
+    color: #757575;
+}
+
+.price_summary h5{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 47px;
+color: #2D2D2D;
+padding-top: 7px;
+padding-bottom: 20px;
+}
+
+.grand{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 38px;
+color: #757575;
+}
+
+.price_btn{
+    display: flex;
+    justify-content: center;
+}
+
+.price_bkng{
+    background: #02A3C1;
+    color: white;
+    border-radius: 0;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 42px;
+padding: 0px 110px;
+margin: 20px 0;
+}
+
+.btn:hover{
+    background: #02A3C1;
+    color: white;
+}
+
+
+
+@media screen and (max-width:800px) {
+    .fair_visa_summary{
+        width: 35vw;
+    }
+    .fair_rules_tabel{
+        width: 30vw;
+    }
+
+    .thh {
+        font-size: .5em;
+        color: white;
+        letter-spacing: .1em;
+        background: #02A3C1;
+      }
+
+      .fair_visa_header button{
+        font-size: 12px;
+    }
+
+    
+.baggage{
+    overflow-x: auto;
+}
+
+.fair_visa_summary{
+    overflow-x: auto;
+}
+
+.tabel_element{
+    overflow-x:auto;
+}
+
+}

@@ -1,0 +1,35 @@
+.sdasas{
+    padding: 1px 2px !important;
+    width: 100% !important;
+    background-color: #FFFFFF;
+    border: 1px solid grey;
+    outline: none;
+}
+
+.br_left{
+    border-left: 1px solid #bbbbbb !important;
+}
+
+
+.br_right{
+    border-right: 1px solid #bbbbbb !important;
+}
+
+.br_full{
+    border: 1px solid #bbbbbb !important;
+    border-radius: 5px !important;
+}
+
+
+
+
+
+
+
+
+
+
+.sm_size{
+    padding: 10px 8px !important;
+    width: 100%;
+}

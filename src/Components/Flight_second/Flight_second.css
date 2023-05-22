@@ -1,0 +1,15 @@
+.right-borger-line{
+    border-right: 1px solid #757575;
+}
+.line-bonk{
+font-size: 10px !important;
+}
+/* .overflow-class{
+    overflow-x:  !important;
+} */
+@media only screen and (max-width:600px) {
+    .right-borger-line{
+        border-right:none;
+        border-bottom: 1px solid;
+    }
+}

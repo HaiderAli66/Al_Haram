@@ -1,0 +1,35 @@
+.who-r{
+    font-size: 53px;
+    font-weight: 500;
+    color: #02A3C1;
+}
+.who-are{
+   font-size: 18px;
+    color: #757575;
+}
+.mission{
+    font-size: 39px;
+}
+.input-padd{
+    padding: 25px;
+}
+.gora{
+    background-color: #02A3C1;
+}
+
+
+@media only screen and (max-width:600px){
+    .who-r{
+        font-size: 30px !important;
+    }
+
+    .who-are{
+        text-align: left;
+        margin-bottom: 15px;
+    }
+    .input-padd{
+        padding: 12px;
+    }
+}
+
+

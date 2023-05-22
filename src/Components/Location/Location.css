@@ -1,0 +1,21 @@
+.captan{
+    background-color: #02a3c0;
+    padding: 14px;
+    text-align: center;
+    color: white;
+    font-size: 26px;
+    font-weight: 600;
+}
+.lef{
+    background-color: rgb(207, 207, 207);
+    height: 90%;
+}
+.capston{
+    font-size: 22px;
+}
+@media only screen and (max-width:500px) {
+    .lef{
+       
+        height: 70% !important;
+    }
+}

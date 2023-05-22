@@ -1,0 +1,433 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Lato&family=Raleway:wght@100&display=swap');
+
+.home_front_main{
+    background-image: url(../Assets/home_bg.png);
+   
+    padding: 50px 8px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height:80vh !important;
+
+}
+
+
+
+.bhggggs .li nav-item{
+    background-color: #02A3C1 !important;
+}
+
+.home_front_heading{
+    color: white;
+    font-size: 20px;
+    font-style:normal;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'Raleway', sans-serif;
+   
+}
+
+.marrrrrrsss{
+    margin-top: 5% !important;
+}
+.depart-border{
+    border-right: 1px solid #757575;
+}
+
+
+
+.home_navigation{
+    background-color: white;
+    padding: 10px 12px ;
+    border: none;
+    font-size: 14px;
+    outline: none;
+    color: #02A3C1;
+    font-weight: 700;
+    margin-right: 20px;
+}
+
+.sasds{
+    border-bottom: none !important;
+    margin-left: 26px !important;
+}
+.sasds:hover{
+    border: none !important;
+
+}
+
+.sasds .nav-link{
+    width: 150px !important;
+    border: none !important;
+    border-radius: none !important;
+    text-transform:uppercase !important;
+    font-weight: 600 !important ;
+}
+.navigation_card{
+    background-color: white;
+    padding: 25px 30px;
+}
+
+.Navigation_card_heading{
+    text-transform: uppercase;
+    color: #757575;
+  
+    font-size: 17px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.siner_dival{
+    
+    padding-top: 14px !important;
+    
+
+}
+
+.buttton_icons{
+    margin-bottom: 3px !important;
+}
+
+.card_icons{
+    color: #02A3C1;
+}
+
+.lower_card_heading{
+    text-transform: uppercase;
+    color: #757575;
+font-family: Roboto;
+font-size: 16px !important;
+margin-top: 6px;
+margin-bottom: 0px !important;
+}
+
+
+.small_btn_home{
+    border: none;
+    outline: none;
+    background-color: #FFF;
+    font-size: 24px;
+    color: #757575;
+    /* border: 1px solid #757575;    */
+    width: 34px !important;
+    border-radius: 5px !important;
+}
+
+.large_btn_home{
+    border: none;
+    outline: none;
+    background-color: #EDEDED    !important;
+    font-size: 24px;
+    width: 84px !important;
+    color: #585858;
+}
+
+.search_button{
+    padding:10px ;
+    color: white;
+    background-color: #02A3C1;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    font-weight: 700;
+    margin-top: 30px;
+    width: 200px;
+}
+.nav-tabs .nav-link:hover {
+    border: none !important;
+}
+/* ::placeholder{
+    color: black !important;
+} */
+.colooouyy{
+color: #02A3C1 !important;
+}
+.ReactFlagsSelect-module_selectBtn__19wW7:after{
+    border-top: 5px solid white !important;
+    border-left: 5px solid transparent !important;
+    border-right: 5px solid transparent !important;
+    border-bottom: 0 !important;
+}
+.ReactFlagsSelect-module_selectBtn__19wW7 {
+color: white !important;
+background-color: #02A3C1 !important;
+}
+@media only screen and (max-width:600px){
+    .responsive_beh{
+        flex-direction: column !important;
+        width: 100%;
+    }
+    .siner_dival{
+        padding-top: 68px;
+    }
+    .siner_text{
+font-size: 15px !important;
+    }
+    
+
+    .home_navigation{
+        margin-top: 10px;
+
+    }
+    .sasds{
+        margin-left: 7px !important;
+        display: flex !important;
+        justify-content: center !important;
+    }
+
+    .marrrrrrsss{
+        margin-top:20% !important;
+    }
+
+    .navigation_card{
+        margin-top: 20px;
+        padding: 10px;
+    }
+
+    .sm_size{
+        width: 100%;
+    }
+
+    .bttm{
+        margin-bottom: 27px !important;
+        margin-left: 2em !important;
+    }
+
+    .mmw{
+        margin-top: 60px !important;
+    }
+    .nav-tabs .nav-link{
+        margin-top: 10px !important;
+    }
+}
+
+@media screen and (max-width:700px) {
+    .depart-border{
+        border-right: none !important;
+        border-bottom: 1px solid #757575;
+       width: 95% !important;
+       text-align: center;
+       padding: 8px;
+    }
+    
+}
+
+
+.nav-tabs .nav-item.show .bttm, .nav-tabs .nav-link.active {
+    color: #FFF !important;
+   background-color: #02A3C1 !important;
+    border-color: none !important;
+}
+ .nav-tabs .nav-link.active {
+    color: #FFF !important;
+   background-color: #02A3C1 !important;
+    border-color: none !important;
+}
+
+
+.nav-tabs .nav-link.active .day {
+    color: white !important;
+}
+
+.nav-tabs .nav-item.show , .nav-tabs .nav-link {
+    color: #02A3C1 ;
+   background-color: #FFF !important;
+    border-color: none !important;
+}
+.nav-tabs .nav-item , .bttm{
+    margin-left: 1rem !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* here is the all css that is used to make some changes in the site to make it better so if u want to change something please look here */
+
+
+.siner_text{
+    font-size: 14px !important;
+    font-weight: 600;
+    text-align: left;   
+    margin-top: 15px !important;        
+}
+
+
+.flight_del_button{
+    color: white !important;
+}
+
+.bg-info{
+    background-color: #02A3C1 !important;
+}
+
+
+
+
+.flightdrop_down_btttn:hover{
+    background-color: #02A3C1 !important;
+    border-radius: 8px !important   ;
+}
+
+
+.bg_all_btn:hover{
+    background-color: #02A3C1 !important;
+}
+
+
+
+.flightdrop_down_btttn .dropdown-toggle::after{
+    color: white !important;
+}
+
+
+
+.bg_button_hver:hover{
+    background-color: #02A3C1 !important;
+}
+
+
+.veiw_del_main_card{
+    padding:20px !important ;
+}
+
+
+
+
+
+
+
+
+
+
+
+.explore_res_del{
+    font-size: 36px !important;
+    color: #757575 !important; 
+
+    font-weight: 700;
+}
+
+.remove_clr{
+    background-color: white !important;
+    padding-left: 20px !important;
+    color: #2d2d2d !important;
+    font-weight: 700 !important;
+    text-transform:capitalize !important;
+}
+
+
+.user_eveies_h4{
+    font-weight: bold !important;
+    font-size: 32px !important;
+    margin-top: 20px !important;
+
+}
+
+
+.flights_scd_heading_card{
+    color: 
+    #2D2D2D !important;
+    font-weight: bold;
+}
+
+.moblie_seat_font{
+    font-size: 18px !important;
+}
+
+.slider_range{
+    color: #02A3C1 !important;
+}
+
+
+.budget_button{
+    background-color: #02A3C1 !important;
+    color: white;
+}
+
+.budget_button:hover{
+    color: white !important;
+    background-color: #02A3C1 !important;
+}
+
+.read_our_blog_ig{
+    display: contents !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.RangeSlider{
+    color: #02A3C1 !important;
+}
+.range-slider--primary{
+    color: #02A3C1 !important;
+    background-color: #02A3C1 !important;
+}
+
+
+
+@media only screen and (max-width:600px){
+    .moble_fs{
+        font-size: 22px !important;
+    }
+
+    .has-search .form-control{
+        padding: 10px !important;
+    }
+
+    .special_moblie{
+        text-align: left !important;
+        margin-left: 10px !important    ;
+    }
+
+    .special_moblie_para{
+        padding-left: 17px !important   ;
+    }
+
+
+    .veiwn_del_main_moblie_heading{
+        font-size: 18px !important;
+        font-weight: bold !important;
+        /* padding: 10px 10px !important; */
+    }
+
+
+    .moblie_fs_ofher{
+        font-size: 12px !important;
+        margin: 10px 0px !important;
+    }
+
+    .fli {
+        font-size: 18px !important;
+    }
+
+    .veiw_deltails_slider_mt{
+        margin-top: 10px !important ;
+    }
+
+    .mt_none{
+        margin-top: 0px !important;
+    }
+}

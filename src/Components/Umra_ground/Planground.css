@@ -1,0 +1,28 @@
+.slt{
+    background-color: #02A3C1 !important;
+}
+
+.logo_box{
+    background-color: #02A3C1;
+}
+
+.ogo{
+    padding: 4rem 0rem;
+}
+
+.sho_mor{
+    background-color: #02A3C1 !important;
+    width: 30%;
+}
+
+@media screen and (max-width:500px) {
+    .salc{
+        margin-right: 5px;
+    }
+
+    .sho_mor{
+        background-color: #02A3C1 !important;
+        width: 55%;
+    }
+
+}

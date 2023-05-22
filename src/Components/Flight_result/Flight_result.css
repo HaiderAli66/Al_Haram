@@ -1,0 +1,635 @@
+.flight_result_swpr{
+    background: #FBFBFB;
+box-shadow: 0px 4px 30px 5px rgba(0, 0, 0, 0.15);
+margin: 50px 20px;
+padding: 10px 10px; 
+}
+
+.cont{
+    width: 90vw;
+  
+    align-items: center;
+    float: center !important;
+}
+
+.flight_result_text_active{
+    background: #02A3C1;
+border: 1px solid #757575;
+text-align: center;
+font-family: 'Roboto';
+display: flex;
+flex-direction: column;
+color: white;
+width: 109px !important;
+}
+
+.flight_result_text{
+border: 1px solid #757575;
+text-align: center;
+font-family: 'Roboto';
+display: flex;
+flex-direction: column;
+width: 109px !important;
+}
+
+.price{
+    color: #2D2D2D;
+    font-size: 16px;
+}
+
+.flight_result_text img{
+    width: 49px;
+height: 49px;
+}
+
+
+.side{
+    line-height: 30px;
+    color: #757575;
+    width: 29vw;
+    padding: 40px 10px;
+    background: #FFFFFF;
+    border: 1px solid #757575;
+    margin-left: 30px;
+}
+
+.one{
+    justify-content: space-between;
+}
+
+.two{
+   
+    padding-top: 30px;
+}
+
+.to{
+    padding-top: 30px;
+}
+
+.top_first{
+    font-size: 14px;
+}
+
+.depart_text{
+    color: black;
+    line-height: 12px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+}
+
+.flight_right{
+    width: 70vw;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+.nev{
+    background: #02A3C1;
+    font-family: 'Roboto';
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+font-variant: small-caps;
+padding-top: 9px;
+padding-bottom: 5px;
+}
+
+.ticket_main{
+    font-family: 'Roboto';
+    border: 1px solid black;
+    margin-top: 10px;
+}
+
+.ticket_roww{
+    display: flex !important;
+    justify-content: space-around;
+    padding-top: 10px;
+    padding-bottom: 7px;
+}
+
+.ticket_first p{
+    font-style: normal;
+font-weight: 300;
+font-size: 11px;
+line-height: 18px;
+font-variant: small-caps;
+color: #494848;
+}
+
+.flight_reslult_h4{
+    font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 38px;
+margin-bottom: 0;
+}
+
+h5{
+    font-size: 17px;
+    margin-bottom: 0;
+}
+
+p{
+    margin-bottom: 0;
+}
+
+.emg_group{
+    display: flex;
+}
+
+.emg_group_2{
+    display: flex;
+    font-size: 10px;
+}
+
+.emg_group_2 img{
+    width: 20px;
+}
+
+.book{
+    background: #02A3C1;
+    color: white;
+    font-size: 12px;
+    border-radius: 0;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 12px;
+}
+
+
+.piece{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 19px;
+font-variant: small-caps;
+padding-top: 10px;
+padding-bottom: 0px;
+}
+
+.drop_bttn{
+    background-color: transparent !important;
+    display: flex;
+}
+
+
+
+.item{
+    width: auto;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 19px;
+font-variant: small-caps;
+color: #2D2D2D;
+padding-left: 27px;
+padding-right: 27px;
+}
+
+.item:focus{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    font-variant: small-caps;
+    color: #2D2D2D;
+    background-color: transparent;
+}
+
+.flight_details{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    font-variant: small-caps;
+ 
+}
+
+.fare_panel{
+    background: #F5F5F5;
+    padding: 20px 0px;
+}
+
+.baggage_panel{
+    background: #F5F5F5;
+}
+
+hr{
+    margin: 0;
+    color: #494848 !important;
+}
+
+.btn-primary {
+    --bs-btn-color: black;
+    --bs-btn-bg: transparent;
+    --bs-btn-border-color: transparent;
+    --bs-btn-hover-color: transparent;
+    --bs-btn-hover-bg: transparent;
+    --bs-btn-hover-border-color: transparent;
+   
+    --bs-btn-active-color: #fff;
+  
+}
+
+.btn:hover {
+    color: black;
+    background-color: transparent;
+    border-color: var(--bs-btn-hover-border-color);
+}
+
+.btn:first-child:active {
+    color: black;
+    background-color: transparent;
+    border-color: var(--bs-btn-hover-border-color);
+}
+
+
+
+.drop{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+title{
+    font-family: 'Roboto' !important;
+font-style: normal !important;
+font-weight: 800;
+font-size: 14px !important;
+line-height: 19px !important;
+font-variant: small-caps !important;
+}
+
+hr{
+    color: #757575;
+}
+
+.MuiBox-root{
+    padding: 14px 0 0 0 !important;
+}
+
+.fs-13{
+    font-size: 9px;
+}
+
+.indgo{
+    padding-top: 10px;
+}
+
+.indgo img{
+    width: 9%;
+}
+
+.pan_1{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 470;
+font-size: 14px;
+line-height: 19px;
+font-variant: small-caps;
+color: black;
+
+}
+
+.pan{
+        font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 19px;
+    font-variant: small-caps;
+    color: #2D2D2D;
+    padding: 0 7px;
+    
+}
+
+
+
+.baggage{
+    padding-bottom: 14px;
+ 
+    width: 90vw !important;
+}
+
+.fare_text{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 15px;
+}
+
+.fare_text h6{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+font-variant: small-caps;
+color: #2D2D2D;
+padding-bottom: 10px;
+}
+
+.fare_amount{
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 10px 5px 10px;
+    padding: 0 10px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+text-transform: capitalize;
+color: #2D2D2D;
+}
+
+.total_amount{
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 10px 5px 10px;
+    padding: 0 10px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 640;
+font-size: 14px;
+line-height: 19px;
+text-transform: capitalize;
+color: #2D2D2D;
+}
+
+
+.tital{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+color: #2D2D2D;
+padding-bottom: 10px;
+}
+
+.tital_detail{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 599;
+font-size: 15px;
+line-height: 16px;
+color: #2D2D2D;
+padding-bottom: 10px;
+}
+
+th{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 16px;
+color: #2D2D2D;
+padding-bottom: 10px;
+}
+
+.tabel_list{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 599;
+    font-size: 11px;
+    line-height: 16px;
+    color: #2D2D2D;
+    padding-bottom: 10px;
+}
+
+.polcy_tabel{
+    background: #F5F5F5;
+    justify-content: space-between;
+    padding: 0px 20px;
+}
+
+
+
+.policy_heading{
+    background: #9F9F9F;
+    color: white;
+    text-align: center;
+    padding: 7px 0 1px 0;
+    margin-top: 10px;
+}
+
+.table{
+    background: white !important;
+}
+
+.policy_line{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 599;
+    font-size: 13px;
+    line-height: 16px;
+    color: #2D2D2D;
+    padding-bottom: 10px;
+}
+
+.policy_text{
+    background: #F5F5F5;
+    padding-left: 40px;
+}
+
+.policy_d{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 650;
+    font-size: 13px;
+    line-height: 16px;
+    color: #2D2D2D;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.check_heade{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    color: #2D2D2D;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.check_deatil{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 14px;
+    color: #2D2D2D;
+    padding-top: 10px;
+}
+
+.ticket_btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px 0px;
+}
+
+.ticket_bkng{
+    background: #02A3C1;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+padding: 4px 80px;
+line-height: 42px;
+color: #FFFFFF;
+border-radius: 0;
+}
+.ticket_bkng:hover{
+    background: #02A3C1;
+color: white;
+}
+
+@media screen and (max-width: 800px) {
+    .side{
+        line-height: 30px;
+        color: #757575;
+        width: 95vw;
+        padding: 40px 30px;
+        background: #FFFFFF;
+        border: 1px solid #757575;
+        margin-left: 9px;
+      
+    }
+    .policy{
+        width: 100VW !important;
+    }
+    .policy_text{
+        padding-left: 18px !important;
+    }
+
+
+    .fare_breakup{
+        width: 90vw;
+    }
+.flight_plolicy_detail_moblie{
+    font-size: 17px !important;
+}
+    .flight_details{
+        width:100vw !important ;
+    }
+
+    .baggage{
+        width: 80vw;
+    }
+
+
+    .boox{
+        overflow-x:scroll !important
+    }
+
+
+    .boox .css-jpln7h-MuiTabs-scroller{
+        overflow-x: scroll !important;
+    }
+
+    .policy{
+        width: 85vw;
+    }
+
+    .flight_result_sidebar{
+        flex-direction: column;
+    }
+    .polcy_tabel{
+        overflow-x: scroll !important;
+        padding: 10px 0px !important;
+    }
+    .flight_right{
+        width: 95vw;
+        margin-left: 10px;
+        margin-right: 20px;
+    }
+
+    } 
+
+    
+
+    .nev{
+    
+        margin-top: 10px;
+    }
+
+
+
+
+    .ticket_first{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+     
+    }
+
+    .coll_12{
+   
+        margin: 12px 0;
+    }
+
+    .ticket_indigo_img{
+        width: 60px;
+    }
+
+
+    .item{
+        font-size: 10px !important;
+    }
+
+    .item:focus{
+        font-size: 10px !important;
+    }
+
+
+
+
+@media (min-width:769px) and (max-width:1024px) {
+    h5{
+        font-size: 15px;
+    }
+
+    h6{
+        font-size: 13px;
+    }
+
+
+
+    
+    h3{
+        font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 38px;
+    }
+
+    .piece{
+        font-size: 12px;
+    }
+
+    .drop{
+        padding-left: 0;
+    }
+
+ 
+}

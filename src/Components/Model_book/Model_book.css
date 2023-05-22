@@ -1,0 +1,55 @@
+
+.colorofmodel{
+    background-color: #02a3c1;
+}
+.modal-header .btn-close {
+    color: white !important;
+}
+
+
+
+.colorofmodel .btn-close{
+    color: white !important;
+}
+
+.colorofmodels{
+    background-color: #02a3c1;
+   
+    outline: #02a3c1;
+    color: white;
+}
+
+
+.colorofmodels:focus{
+    background-color: #02A3C1 !important;
+}
+
+.colorofmodels:hover{
+    background-color: #02a3c1;
+    color: white;
+}
+
+
+.modal_submit_buttn{
+    background-color: #02A3C1 !important;
+    color: white !important;
+    border: 1px solid white !important;
+    margin-bottom: 15px !important;
+
+}
+
+
+/* haider modal */
+.gr{
+    background-color: #02A3C1;
+}
+
+.tick_ok{
+    width: 20% !important;
+}
+
+@media screen and (max-width:500px) {
+    .tick_ok{
+        width: 50% !important;
+    }
+}

@@ -1,0 +1,52 @@
+.sign_up_page_main{
+    padding: 30px 0px;
+}
+
+
+.sing_up_page_landing{
+    padding: 15px 20px;
+    background-color: #02A3C1 !important;
+}
+
+
+.sign_up_input_heading{
+    color: #ffff;
+    font-weight: 500;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+}
+
+
+.sign_up_input_here{
+    text-transform:capitalize;
+    color: 
+    #757575;
+    padding: 8px;
+}
+
+.sign_up_bottom_button{
+    padding: 10px 25px;
+    color: #252525;
+    font-weight: 600;
+    text-transform: uppercase;
+    border: none;
+    outline: none;
+    margin-top: 20px;
+}
+
+
+.acc_log{
+    color: #ffff;
+    text-decoration: underline;
+    margin-top: 15px 
+}
+
+.whatsapp_button{
+    border: none;
+    outline: none;
+    padding: 10px;
+    text-transform:capitalize;
+    font-weight: 400;
+    color: #252525;
+    font-size: 18px;
+}

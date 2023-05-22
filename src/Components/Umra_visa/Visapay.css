@@ -1,0 +1,29 @@
+.amount_bar{
+    background-color: #02A3C1;
+}
+
+.third{
+    margin-top: 3rem;
+}
+
+.smal_ind{
+    width: 5%;
+}
+
+@media screen and (max-width:600px) {
+    .t_amount{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .bf_r{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .vise_pay_moblie{
+        font-size: 13px !important;
+    }
+
+    
+}

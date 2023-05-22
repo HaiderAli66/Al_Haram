@@ -1,0 +1,139 @@
+.add_travel{
+    background: #FFFFFF;
+box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.15);
+padding: 20px 20px;
+margin: 20px 0;
+
+}
+
+.hand{
+    padding: 0 19px;
+    width: 47%;
+}
+
+.ellipse{
+    width: 36%;
+    padding: 0 19px;
+}
+
+.add_travel_text h5{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 33px;
+color: #2D2D2D;
+}
+
+.add_travel_text p{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 28px;
+color: #2D2D2D;
+}
+
+.ellipse_2{
+    width: 80%;
+    padding: 0 19px;
+    margin-top: 7px;
+}
+
+.good_to_know{
+    background: #EBFCFF;
+    padding: 20px 40px;
+margin: 20px 0;
+}
+
+.good_to_know h5{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    color: #2D2D2D;
+}
+
+.good_to_know p{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 23px;
+color: #757575;
+}
+
+.imp_info{
+    background: #F5FFF3;
+    padding: 20px 40px;
+margin: 20px 0;
+}
+
+.imp_info h5{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    color: #2D2D2D;
+}
+
+.imp_info p{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 23px;
+color: #757575;
+}
+
+.price_tbl{
+    background: #FEFEFE;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 38px;
+color: #757575;
+padding-left: 20px;
+}
+
+.price{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 38px;
+    color: #757575;
+}
+
+.price_summary h5{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 47px;
+color: #2D2D2D;
+padding-top: 7px;
+padding-bottom: 20px;
+}
+
+.grand{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 38px;
+color: #757575;
+}
+.btn{
+    background-color:#02A3C1 ;
+}
+
+.main_div_icons{
+    width: 100%;
+  
+    display: flex;
+    justify-content: space-between;
+}

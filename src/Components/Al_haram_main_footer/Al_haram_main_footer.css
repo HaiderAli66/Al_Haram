@@ -1,0 +1,135 @@
+.Al_haram_main_footer{
+    padding: 30px;
+    background-color: #02A3C1;
+}
+
+.footer_links_main{
+    text-transform: capitalize;
+    color: 
+    #FFFFFF;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.footer_submit_btn_sub{
+    background-color: #0C6373 !important;
+    color: white !important;
+    text-transform:  upperCase !important;
+}
+
+.android_fs{
+    font-size: 10px !important;
+}
+
+
+
+.borderssss{
+    position: relative;
+    top: -20px;
+    width: 76% !important;
+    left: -20px;
+    
+}
+
+.foooter_logo_para_main{
+    position: relative;
+    top: -24px !important;
+
+}
+
+
+.footer_links_main:hover{
+    color: #054652 !important ;
+}
+
+.foooter{
+    border: 1px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    padding: 10px 4px;
+    font-size: 12px;
+    text-transform: capitalize;
+}
+
+.submitt{
+    border: 1px solid #054652 !important;
+    padding: 10px 15px !important;
+    background-color:  #FFFFFF !important;
+    color: #757575 !important;
+    text-transform: uppercase;
+}
+.badaa{
+    background-color: #6B6B6B;
+    padding-left:15px !important ;
+}
+
+.main_footer_btn{
+    outline: none;
+    border: none;
+    padding: 10px 24px;
+    color: #757575 !important;
+    border-radius: none !important;
+}
+
+.left_button{
+    width: 100%;
+    border: none;
+    outline: none;
+    padding: 10px 5px;
+    background-color: #fff;
+    color: #6B6B6B;
+
+}
+
+.input_imgss{
+    padding-left: 3px;
+    padding-right: 10px;
+    margin-top: 14px;
+    left: 0 !important;
+}
+
+
+.subbbmmmit{
+    border-radius: none !important;
+}
+
+.fooooter_submit_buttton{
+    background-color: #0c6373 !important;
+    outline: none;
+    border: none;
+    padding: 5px 35px !important;
+    color: white !important;
+}
+
+.main_footer_button{
+    background-color: transparent !important;
+}
+
+@media only screen and (max-width:600px){
+    .responsive_pro{
+        text-align: left !important;
+    }
+    .submitt{
+        margin-top: 10px !important;
+    }
+
+    .RESPONSIVE_PRO{
+        flex-direction: column !important;
+    }
+
+    .main_footer_btn{
+        outline: none;
+        border: none;
+        padding-left:  14px !important;
+        color: #757575 !important;
+        border-radius: none !important;
+    }
+
+
+
+
+
+
+}

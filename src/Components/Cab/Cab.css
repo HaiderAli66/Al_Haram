@@ -1,0 +1,268 @@
+.font {
+    font-size: 12px;
+}
+
+.font-icon {
+    font-size: 6px;
+}
+
+
+.hhh {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 46px;
+    padding-left: 30px;
+}
+
+.first {
+    padding-top: 160px;
+    padding-left: 30px;
+}
+
+.flight_p {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    
+    color: #7E7E7E;
+    padding-left: 17px;
+}
+
+.swipppr {
+    margin-top: 60px;
+}
+
+.silde img {
+    width: 330px;
+}
+
+.swiper-pagination {
+    position: relative !important;
+    margin-top: 50px;
+    text-align: center;
+    transition: .3s opacity;
+    transform: translate3d(0, 0, 0);
+    z-index: 10;
+}
+
+.swiper-pagination-bullet {
+    border: 2px solid #02A3C1;
+    background-color: transparent !important;
+    width: var(--swiper-pagination-bullet-width, var(--swiper-pagination-bullet-size, 18px)) !important;
+    height: var(--swiper-pagination-bullet-height, var(--swiper-pagination-bullet-size, 18px)) !important;
+}
+
+.swiper-pagination-bullet-active {
+    background-color: #02A3C1 !important;
+}
+
+.second {
+    background: #E1FAFF;
+    padding-top: 60px;
+    padding-left: 30px;
+    margin-top: 140px;
+    margin-bottom: 90px;
+}
+
+@media screen and (max-width:800px) {
+
+    .hhh {
+        text-align: center;
+        padding-left: 0;
+        font-size: 22px !important  ;
+    }
+
+    .flight_p {
+        text-align: center;
+        font-size: 16px;
+        padding-left: 0;
+    }
+
+    .first {
+        padding-left: 0;
+    }
+
+    .second {
+        padding-left: 0;
+    }
+.silde_img_cab img {
+    width: 300px!important;
+}
+}
+
+.imgg {
+    display: block;
+    margin: auto;
+    width: 100%;
+    height: 90%;
+}
+
+.collo {
+    background-color: #02A3C1;
+}
+
+.write {
+    color: white;
+}
+
+
+.btn_col {
+    background-color: white !important;
+    margin-left: 100px;
+}
+.bto{
+    width: 20%;
+    margin-bottom: 5%;
+}
+.wel{
+    padding-left: 150px;
+}
+
+
+/* swipper css  */
+.swipppr{
+    margin-top: 60px;
+}
+
+.silde img{
+    width: 330px;
+}
+
+.swiper-pagination {
+    position: relative !important;
+    margin-top: 50px;
+    text-align: center;
+    transition: .3s opacity;
+    transform: translate3d(0,0,0);
+    z-index: 10;
+}
+
+.swiper-pagination-bullet{
+    border: 2px solid #02A3C1;
+    background-color: transparent !important;
+    width: var(--swiper-pagination-bullet-width,var(--swiper-pagination-bullet-size,18px)) !important;
+    height: var(--swiper-pagination-bullet-height,var(--swiper-pagination-bullet-size,18px)) !important;
+}
+
+.swiper-pagination-bullet-active{
+    background-color: #02A3C1 !important;
+}
+
+.second{
+    background: #E1FAFF;
+        padding-top: 60px;
+        padding-left: 30px;
+        margin-top: 140px;
+        margin-bottom: 90px;
+}
+
+@media screen and (max-width:800px) {
+
+    .white {
+        font-weight: bold;
+        font-size: x-small;
+        padding: 5px 15px;
+        width: 100px;
+        text-align: center !important;
+        text-transform:capitalize !important;
+    }
+    .hhh{
+        text-align: center;
+        padding-left: 10px;
+    }
+
+    .flight_p{
+        text-align: center;
+        font-size: 13px !important;
+        padding-left: 10px;
+    }
+
+    .first{
+        padding-left: 0;
+    }
+
+    .second{
+        padding-left: 0;
+    }
+    .add_travel_text h5 {
+        font-size: 18px !important;
+    }
+}
+
+
+
+
+.car_border {
+    border-right: 1px solid rgb(187, 187, 187);
+}
+
+.fs-8-white {
+    font-size: x-small;
+    font-weight: bold;
+}
+
+.white {
+    font-weight: bold;
+    font-size: x-small;
+    padding: 5px 15px;
+    text-transform:capitalize!important;
+ 
+}
+
+
+.price_bkng:hover{
+    background-color: #02A3C1 !important;
+}
+
+
+
+@media screen and (max-width: 600px) {
+    .sssm {
+        margin-bottom: 10px;
+    }
+
+    .ss {
+        margin-left: 80px;
+        margin-top: 10px;
+    }
+
+    .for_blow{
+        display: flex !important;
+        justify-content: center !important;
+        margin: 0px !important;
+    }
+
+
+
+   
+    .btn_col {
+        margin-left: 0px;
+        margin-bottom: 10px;
+    }
+    .res{
+        display: flex;
+        flex-direction: column !important;
+        justify-content: center;
+ 
+    }
+    .h6{
+      
+        padding-left: 6px;
+    }
+    .bto{
+        width: 60%;
+        margin-bottom: 5%;
+    }
+    .btn_col{
+
+        font-size: 11px;
+        margin-left: 2px;
+    }
+    .wel{
+        padding-left: 0px;
+    }
+}

@@ -1,0 +1,36 @@
+.hdr_new_crd{
+    font-size: 12px !important;
+}
+
+.for_blow{
+    margin-top: 4rem;
+    margin-right: 30px;
+}
+
+@media screen and (max-width:500px) {
+    .for_blow{
+        margin-top: 0rem;
+        margin-right: 30px;
+    }
+
+    .for_top_respo{
+        margin-top: 15px;
+    }
+
+    .for_none_box{
+        display: none;
+    }
+    .for_down_p{
+        padding-bottom: 10px;
+    }
+}
+
+
+
+@media only screen and (max-width:600px){
+    .icon-main{
+        flex-direction: column !important;
+        display: flex !important;
+        text-align: left !important
+    }
+}

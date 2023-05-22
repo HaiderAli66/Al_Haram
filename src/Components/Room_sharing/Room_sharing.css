@@ -1,0 +1,9 @@
+
+
+.room_sharing{
+    overflow-x: scroll !important;
+}
+
+.room_sharing_tr{
+    border: 1px solid;
+}

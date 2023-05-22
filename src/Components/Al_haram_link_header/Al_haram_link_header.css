@@ -1,0 +1,85 @@
+.logo_main_header{
+    width: 73% !important;
+    text-align: left;
+
+}
+.msasa {
+    margin-left: 13em !important;}
+.logo_mar{
+    margin-left:-3% ;
+}
+
+.header_links{
+    color: #585858 !important;
+    line-height: 33px;
+    margin-right: 25px;
+   
+   
+}
+.drop_nav_links{
+    color: #585858;
+    text-decoration: none !important;
+    font-size: 18px !important;
+    font-weight: 500 !important;
+}
+.drop_nav_links:hover{
+    color:#02A3C1 !important ;
+}
+.header_travel_btn{
+    margin-left: 12% !important;
+}
+
+.header_drop{
+    color: #02A3C1 !important;
+}
+
+
+.header_drop .dropdown-toggle::after{
+    color: #02A3C1 !important;
+}
+
+
+@media only screen and (max-width:600px){
+    .logo_main_header{
+        width: 60% !important;
+    }
+    .msasa {
+        margin-left: 0px !important;}
+
+    .header_travel_btn{
+        margin-left: 0px !important;
+    }
+
+    .new_responive_nav{
+        padding: 0px 15px !important;
+    }
+
+    .header_links{
+        margin-right: 0px !important;
+    }
+
+    .logo_mar {
+        margin-left: -16% !important;
+    }
+}
+
+
+@media (min-width:800px) and (max-width:1200px) {
+    .header_links{
+        margin-right: 7px !important;
+    }
+    .header_travel_btn{
+        margin-left: 8% !important;
+    }
+}
+
+
+
+.drop_down_title{
+    color: #02A3C1 !important;
+}
+
+
+.header_drop .dropdown-menu{
+    left: -115px !important;
+}

@@ -1,0 +1,59 @@
+.upper_header_bg{
+    
+background-color:#02A3C1;
+padding: 12px 0px;
+}
+
+.headiiiier{
+    width: 27px;
+    height: 27px;
+    margin-right: 5px !important;
+}
+
+
+.social_icons_header{
+    color: white !important;
+  
+}
+.al_haram_header_btn{
+    background-color: white !important;
+    text-transform: uppercase !important;
+    color: #02A3C1 !important   ;
+    padding: 3px 14px !important;
+    border: none !important;
+    border-radius: 0px !important;
+    font-weight: 600 !important;
+    
+}
+
+
+@media only screen and (max-width:600px){
+    .resP_DIr{
+        flex-direction: column;
+    }
+    .REspon_pro{
+        margin-top: 10px;
+    }
+
+    .logo_main_header{
+        width: 60%;
+    }
+}
+
+
+
+
+
+/* on hover css is here  */
+
+
+
+.btn_hvr:hover{
+/* border: 3px solid #02A3C1 !important;  */
+/* border: 2px solid red !important    ; */
+color: white !important;
+background-color: #02A3C1 !important;
+transition: 1s;
+/* border: 2px solid #0d798c !important    ; */
+
+}

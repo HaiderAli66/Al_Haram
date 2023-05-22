@@ -1,0 +1,28 @@
+.sin{
+    background-color: #02A3C1 !important;
+}
+
+.chan_color{
+    background-color: #02A3C1 !important;
+}
+
+.leftbar{
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 1rem;
+    font-size: 1.25rem;
+}
+
+
+.sor{
+    color: #474747;
+    width: 30%;
+}
+
+
+
+@media screen and (max-width:500px) {
+    .sor{
+        width: 67% !important;
+    }
+}

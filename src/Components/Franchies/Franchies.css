@@ -1,0 +1,33 @@
+.form-text{
+    font-weight: bold;
+}
+.w-w{
+    width: max-content;
+    margin: auto;
+}
+.u-u{
+    background-color: #0E93AC;
+}
+.ucodi{
+    background-color: #0E93AC;
+    color: white;
+    font-weight: bold;
+    width:70%;
+text-transform: capitalize;
+}
+
+.u-u:hover{
+    background-color: #0E93AC !important;
+}
+
+
+.ucodi:hover{
+    background-color: #0E93AC !important;
+
+}
+@media only screen and (max-width:500px) {
+    .ucodi{
+margin: auto;
+        width:100%;
+    }
+}

@@ -1,0 +1,55 @@
+.ota{
+    position: relative;
+    top: -3%;
+}
+.icolors{
+    color:#757575;
+}
+.btn-00{
+    margin-left: 36%;
+    width: max-content;
+}
+
+.btn_hvr1:hover{
+    color:#02a3c0 !important ;
+    border: 1px solid #02a3c0;
+    background-color: transparent !important;
+
+    transition: 1s;
+}
+
+
+
+.clr_bl{
+    color: #02a3c0 !important;
+}
+.btn-000{
+    /* margin-left: 43%; */
+    width: max-content;
+}
+@media only screen and (max-width:800px) {
+    .btn-00{
+        margin-left: 1%;
+    }
+    .btn-000{
+        margin-left: 1%;
+    }
+
+    
+}
+
+@media (min-width:600px) and (max-width:800px) {
+    .hxn_card{
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+        /* margin-left: 60px; */
+        width: 133% !important;
+    }
+}
+
+@media (min-width:800px) and (max-width:1200px) {
+    .btn-00{
+        margin-left: 16%;
+    }
+}

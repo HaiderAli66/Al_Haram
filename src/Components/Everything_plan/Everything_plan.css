@@ -1,0 +1,44 @@
+.arsal-text{
+    font-size: 17px;
+    color: #757575;
+}
+.arsal-text-color{
+    background-color: #E6FBFF;;
+}
+.fs-bond{
+    font-size: 75px;
+    background-color: #0E93AC;
+    padding: 10px;
+    color: white;
+    width: 17%;
+}
+.pt-5-bond{
+    padding-top: 73px;
+}
+@media only screen and (max-width:600px) {
+    .fs-bond{
+        
+        width: 27%;
+    }
+    .arsal-text{
+        padding-top:20px !important;
+    }
+    .resPoNsive_DIR{
+text-align: center ! important;
+    }
+}
+.finish-bond{
+    background-color: 
+    #FFFDEC;
+}
+.hede{
+    font-weight: bold;
+}
+
+
+
+
+
+.hover_ress:hover{
+    background-color: #02a3c1 !important;
+}

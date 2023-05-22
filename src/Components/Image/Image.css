@@ -1,0 +1,42 @@
+
+.ucard{
+background-color:  #02A3C1 !important;
+}
+.uoverflow::-webkit-scrollbar {
+    width: 0px;
+  }
+  .uHover:hover{
+    color:#02A3C1  ;
+  }
+  .container{
+    font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+  }
+  .container-fluid{
+    font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+  }
+  .Ellipse{
+    width: 4%;
+    height: 45%;
+  }
+  .utext{
+    color: rgb(103, 102, 102);
+  }
+  .shadow{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+  }
+  .bbo{
+  margin-top: 33px;
+  }
+  .icolor{
+    color: rgb(174 174 174)
+  }
+.fw{
+  font-weight: 600;
+  color:#666666;
+}
+.fw2{
+  color:#666666;
+}

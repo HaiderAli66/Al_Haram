@@ -1,0 +1,41 @@
+.park-al{
+    font-size: 21px !important;
+    font-weight: 600;
+}
+.hr-park{
+    width: 100% !important;
+}
+.boldify{
+    font-weight: 500 ;
+    color: #757575;
+}
+.naya-color{
+    background-color: #0E93AC;
+}
+.nya{
+    font-weight: 500 ;
+    padding: 16px; 
+}
+.godo-text{
+    font-size: 13px;
+}
+@media only screen and (max-width:600px) {
+    .hr-park{
+        width: 90% !important;
+        margin:auto;
+    } 
+
+
+    .moblie_res_fonS{
+    font-size: 13px !important;
+    }
+
+    .capstan-lef2 {
+        font-size: 12px;
+        font-weight: 500;
+        padding-left:    10px !important;
+    }
+}
+.shado-card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

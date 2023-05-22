@@ -1,0 +1,91 @@
+.travel_bg_color{
+    padding: 30px 20px;
+    background-color: 
+    #ECFCFF;
+}
+
+.travel_heading{
+    text-transform: capitalize;
+    color: #2D2D2D;
+    font-weight: bold;
+    padding-bottom: 15px !important;
+    font-size: 28px;
+}
+
+.travel_para{
+    color: #757575;
+    padding-bottom: 50px !important;
+}
+
+.contact_us{
+    border:1px solid #757575 ;
+    padding: 15px 5px !important;
+    margin-top: 7px !important;
+}
+
+.i_phone{
+    position: relative;
+}
+.i_phone_card{
+    position: absolute;
+    border-radius:5px ;
+}
+
+.send_me_btn{
+    border: none;
+    outline: none;
+    background-color:  #02A3C1;    
+    color: white;
+}
+
+
+.travel_sub_heading{
+    text-transform: capitalize;
+    font-weight: bold;
+    text-align: center;
+}
+.play_img{
+    width:40px;
+    height: 40px;
+}
+.buttton_heading{
+    font-size: 12px !important;
+}
+.travel{
+    background-color: 
+    #2D2D2D;
+    color: white;
+    padding: 10px 5px;
+    text-transform: capitalize;
+    font-size: 12px;
+}
+
+
+.travel_send_heading{
+    color: #2D2D2D;
+    font-weight: bold;
+    padding: 0px 0px 11px;
+}
+
+.goggle_fs{
+    font-size: 16px !important;
+}
+
+
+.app_fs{
+    font-size: 16px !important;
+    text-align: center !important;
+    text-transform:capitalize !important;
+}
+
+
+
+@media only screen and (max-width:600px){
+    .Res_pro{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        flex-direction: column;
+    }
+}
